@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 625,
+    "train_gen": "glide",
+    "test_gen": "wukong",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7362,
+        "precision": 0.8864528795811518,
+        "recall": 0.5418,
+        "f1": 0.6725422045680238,
+        "roc_auc": 0.8647448799999999,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

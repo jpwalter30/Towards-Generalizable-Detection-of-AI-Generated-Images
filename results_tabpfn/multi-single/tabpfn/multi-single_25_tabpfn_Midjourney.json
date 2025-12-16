@@ -1,0 +1,16 @@
+{
+    "mode": "multi-single",
+    "train_size": 25,
+    "train_gen": null,
+    "test_gen": "Midjourney",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7766,
+        "precision": 0.7875259875259876,
+        "recall": 0.7576,
+        "f1": 0.7722731906218144,
+        "roc_auc": 0.85659202,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

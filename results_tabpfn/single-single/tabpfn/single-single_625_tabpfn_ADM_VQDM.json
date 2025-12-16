@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 625,
+    "train_gen": "ADM",
+    "test_gen": "VQDM",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.8027,
+        "precision": 0.7836925960637301,
+        "recall": 0.8362,
+        "f1": 0.8090953072085147,
+        "roc_auc": 0.89160024,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

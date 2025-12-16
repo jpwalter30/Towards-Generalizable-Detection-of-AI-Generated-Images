@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 25,
+    "train_gen": "VQDM",
+    "test_gen": "wukong",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7499,
+        "precision": 0.8473728106755629,
+        "recall": 0.6096,
+        "f1": 0.7090845643829242,
+        "roc_auc": 0.84288342,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

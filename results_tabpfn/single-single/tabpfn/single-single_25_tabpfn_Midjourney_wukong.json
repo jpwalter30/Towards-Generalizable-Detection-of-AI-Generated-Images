@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 25,
+    "train_gen": "Midjourney",
+    "test_gen": "wukong",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7844,
+        "precision": 0.8308515588645882,
+        "recall": 0.7142,
+        "f1": 0.7681221768122177,
+        "roc_auc": 0.8717861600000001,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

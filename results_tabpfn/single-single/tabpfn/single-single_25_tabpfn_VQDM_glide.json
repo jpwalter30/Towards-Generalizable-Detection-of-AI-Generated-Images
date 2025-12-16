@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 25,
+    "train_gen": "VQDM",
+    "test_gen": "glide",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7935,
+        "precision": 0.8638730473592859,
+        "recall": 0.6968,
+        "f1": 0.7713937783682054,
+        "roc_auc": 0.8766626399999999,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "mode": "multi-single",
+    "train_size": 150,
+    "train_gen": null,
+    "test_gen": "wukong",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.8624,
+        "precision": 0.8550156739811913,
+        "recall": 0.8728,
+        "f1": 0.8638163103721298,
+        "roc_auc": 0.93570628,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

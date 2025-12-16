@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 150,
+    "train_gen": "Midjourney",
+    "test_gen": "BigGAN",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.4984,
+        "precision": 0.49363057324840764,
+        "recall": 0.124,
+        "f1": 0.19820971867007672,
+        "roc_auc": 0.5536291200000001,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 150,
+    "train_gen": "stable_diffusion_v_1_5",
+    "test_gen": "stable_diffusion_v_1_4",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.8568,
+        "precision": 0.8596774193548387,
+        "recall": 0.8528,
+        "f1": 0.8562248995983935,
+        "roc_auc": 0.93056754,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

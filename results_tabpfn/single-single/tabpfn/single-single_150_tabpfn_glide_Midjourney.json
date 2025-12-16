@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 150,
+    "train_gen": "glide",
+    "test_gen": "Midjourney",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.7004,
+        "precision": 0.7992831541218638,
+        "recall": 0.5352,
+        "f1": 0.6411116435074269,
+        "roc_auc": 0.79214726,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}

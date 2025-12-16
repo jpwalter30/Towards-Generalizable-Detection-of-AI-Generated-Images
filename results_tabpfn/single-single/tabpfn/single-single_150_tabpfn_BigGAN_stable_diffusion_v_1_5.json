@@ -1,0 +1,16 @@
+{
+    "mode": "single-single",
+    "train_size": 150,
+    "train_gen": "BigGAN",
+    "test_gen": "stable_diffusion_v_1_5",
+    "seed": 42,
+    "metrics": {
+        "accuracy": 0.5654,
+        "precision": 0.805607476635514,
+        "recall": 0.1724,
+        "f1": 0.2840197693574959,
+        "roc_auc": 0.7352255400000001,
+        "n_test": 10000,
+        "feature_dim_before": 500
+    }
+}
